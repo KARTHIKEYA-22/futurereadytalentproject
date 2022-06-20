@@ -20,4 +20,6 @@
 ![11](https://user-images.githubusercontent.com/100104826/174628036-ab6f4ae5-7179-4369-9bc9-21bf2a7df4e1.png)
 
 ## AzurePortal Screenshot(Used StaticWebApps as Microsoft Azure Service):
+![12](https://user-images.githubusercontent.com/100104826/174629976-ebe3d556-913b-4376-a508-71cf4ed50ce3.png)
+
 
