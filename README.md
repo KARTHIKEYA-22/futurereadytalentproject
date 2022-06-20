@@ -1,8 +1,8 @@
 ## futurereadytalent finalproject : 
-Future Ready Talent project by Karthikeya Konathala.
+### Future Ready Talent project by Karthikeya Konathala.
 
 ## Project Description : 
-In my project people can able to see different kind of food items in my website which create some awareness about food.
+### In my project people can able to see different kind of food items in my website which create some awareness about food.
 
 ## My Website Link(Through Azure Portal):
 
