@@ -4,7 +4,7 @@
 ## Project Description : 
  In my project people can able to see different kind of food items in my website which create some awareness about food.
 
-## My Website Link(Through Azure Portal): https://icy-stone-025cf0010.1.azurestaticapps.net
+## My Website Link : https://karthikeya-konathala.github.io/project
 
 # Demonstartion steps of the project:
 ![1](https://user-images.githubusercontent.com/100104826/175761072-a0fb2291-93fe-41d5-acf7-3aeca164aa1a.png)
